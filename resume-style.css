@@ -2,13 +2,13 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
-    padding: 20px;
-    background-color: #fff;
-    color: #333;
+    padding: 0;
+    background-color: #252129;
+    color: #fff;
 }
 
 .resume-container {
-    max-width: 800px;
+    max-width: 1100px;
     margin: 0 auto;
     padding: 20px;
 }
@@ -16,7 +16,7 @@ body {
 hr {
     border: none;
     height: 1px;
-    background-color: #000;
+    background-color: #150821;
     margin: 20px 0;
 }
 
@@ -25,7 +25,7 @@ hr {
     font-weight: 600;
     margin: 0;
     padding-bottom: 5px;
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #150821;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
