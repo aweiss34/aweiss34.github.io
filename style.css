@@ -39,6 +39,11 @@ body {
     z-index: 10; /* Puts the image layer on top */
 }
 
+.logo-link {
+    text-decoration: none;
+    color: inherit;
+}
+
 .logo {
     font-size: 34px;
     font-weight: bold;

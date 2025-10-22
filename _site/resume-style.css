@@ -25,25 +25,31 @@ hr {
     font-weight: 600;
     margin: 0;
     padding-bottom: 5px;
-    border-bottom: 1px solid #150821;
+    /* border-bottom: 1px solid #150821;*/
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 
 .section-content {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
 }
 
 .subheading {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
 }
 
 .subheading div:first-child {
-    flex-grow: 1;
+    flex-grow: 0;
+    white-space: normal;
+}
+
+.subheading div:last-child {
+    text-align: right;
+    white-space: nowrap;
 }
 
 .subheading h3 {
