@@ -131,7 +131,7 @@ body {
 .section-content {
     padding-left: 15px;
     color: #fff;
-    width: fit-content;
+    width: 100%;
 }
 
 .interests-list {
